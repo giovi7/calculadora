@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+
+
+.calculadora {
+    background-color: rgb(195, 231, 238);
+    width: fit-content;
+    margin: auto;
+    margin-top: 30px;
+}    
+.teclas{
+    display:flex ;
+    
+}
+.pantalla{
+    padding: 18%;
+}
+.numeros{
+    padding: 18%;
+}
+.numeros div{
+    text-align: center;
+}
+.numeros button{
+    border: 0px;
+    background-color: rgb(159, 185, 195);
+    
+}
+button{
+    margin: 0px;
+    padding: 9px;
+
+}
