@@ -19,10 +19,13 @@
     padding: 18%;
 }
 .numeros{
-    padding: 18%;
+    padding: 18% 9px 18px 18px;
 }
 .numeros div{
     text-align: center;
+}
+.op{
+    padding: 18px 18px 18px 9px;
 }
 .numeros button{
     border: 0px;
