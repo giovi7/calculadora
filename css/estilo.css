@@ -9,7 +9,7 @@
     background-color: rgb(195, 231, 238);
     width: fit-content;
     margin: auto;
-    margin-top: 30px;
+    margin-top: 35px;
 }    
 .teclas{
     display:flex ;
@@ -27,13 +27,21 @@
 .op{
     padding: 18px 18px 18px 9px;
 }
+.op button{
+
+}
 .numeros button{
     border: 0px;
     background-color: rgb(159, 185, 195);
+    transition:all 0.09 ;
     
 }
+.numeros button{
+    box-shadow: 0px 0px 12px #cccccc;
+}
 button{
-    margin: 0px;
-    padding: 9px;
+    margin: 2px 0px;
+    padding: 15px;
+    font-size: 19px;
 
 }
